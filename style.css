@@ -11,3 +11,6 @@ body{ background-color:rgb(255, 241, 224);
 }
 article{ background-color: white;
 }
+.resize{ height: 652px;
+         width: 489;
+}
